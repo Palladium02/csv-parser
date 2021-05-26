@@ -1,0 +1,3 @@
+"name","age","password","active"
+"tom",12,"test",true
+"tim", 12,"sometext",false
